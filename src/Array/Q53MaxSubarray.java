@@ -27,5 +27,4 @@ public class Q53MaxSubarray {
         }
         return high_sum;
     }
-
 }
