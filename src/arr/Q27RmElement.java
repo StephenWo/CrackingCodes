@@ -1,4 +1,4 @@
-package Array;
+package arr;
 
 public class Q27RmElement {
     public static void main(String[] args){
