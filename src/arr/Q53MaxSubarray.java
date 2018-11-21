@@ -1,4 +1,4 @@
-package Array;
+package arr;
 
 public class Q53MaxSubarray {
     public static void main(String[] args){

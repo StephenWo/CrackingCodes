@@ -1,8 +1,7 @@
-package Array;
+package arr;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Q66PlusOne {
     public static void main(String[] args){

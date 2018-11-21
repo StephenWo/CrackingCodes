@@ -1,4 +1,4 @@
-package Array;
+package arr;
 
 public class Q35searchInsert {
     public static void main(String[] args){
